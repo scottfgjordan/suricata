@@ -15,8 +15,8 @@ env:
   DEFAULT_SU_BRANCH: master
   DEFAULT_SU_PR:
 
-  DEFAULT_SV_REPO: https://github.com/OISF/suricata-verify
-  DEFAULT_SV_BRANCH: master
+  DEFAULT_SV_REPO: https://github.com/scottfgjordan/suricata-verify
+  DEFAULT_SV_BRANCH: pcap-conditional-v3
   DEFAULT_SV_PR:
 
   DEFAULT_CFLAGS: "-Wall -Wextra -Werror -Wno-unused-parameter -Wno-unused-function"
